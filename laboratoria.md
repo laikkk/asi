@@ -76,7 +76,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Willma Adam
 1. Wyszyński Przemysław
 1. Zbierowski Maciej
-1. Zieliński Kamil
+1. Zieliński Kamil [215521](https://asi-rails-i.herokuapp.com/). [ServiceDashboard](https://bitbucket.org/Ziela/asi_i_dashboard/src/master/).
 1. Żabierek Adrian
 1. Żelazek Mateusz
 
